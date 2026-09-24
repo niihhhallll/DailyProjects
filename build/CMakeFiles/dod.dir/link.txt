@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dod.dir/src/dod.cpp.o -o dod 

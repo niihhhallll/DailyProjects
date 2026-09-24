@@ -1,0 +1,3 @@
+/home/gigu/cpp/dod/build/CMakeFiles/dod.dir
+/home/gigu/cpp/dod/build/CMakeFiles/edit_cache.dir
+/home/gigu/cpp/dod/build/CMakeFiles/rebuild_cache.dir
